@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+	<question>
+		<title>Una rete a scelta libera è anche una rete a scelta asimmetrica.</title>
+		<answer>V</answer>
+	</question>
+	<question difficult="1">
+		<title>Una rete a scelta libera ammette le sincronizzazioni e i conflitti.</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Una rete è limitata se e solo se è strettamente conservativa.</title>
+		<answer>F</answer>
+	</question>
+	<question difficult="1">
+		<title>Se il grafo di raggiungibilità di una rete non presenta marcature morte essa è viva </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Un P-invariante inizialmente marcato rimarrà marcato per sempre</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Un P-invariante inizialmente marcato rimarrà marcato per sempre</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>In una rete generica i sifoni prima o poi perdono i propri gettoni </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Una rete non conservativa è illimitata </title>
+		<answer>F</answer>
+	</question>
+	<question difficult="1">
+		<title>Una rete coperta da T-invarianti e da P-invarianti è viva </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Una rete viva è anche reversibile </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Il supporto di un P-invariante non negativo è una trappola </title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Si consideri una rete di Petri in cui ogni sifone contiene almeno una trappola marcata. Tale rete è viva </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Una rete contenente i seguenti P-invarianti è conservativa: X1=[0 0 1 0]’, X2=[0 1 0 1]’</title>
+		<answer>F</answer>
+	</question>
+	<question difficult="1">
+		<title>Un rete di Petri è viva se e solo se non ammette marcature morte </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Un rete di Petri non reversibile non può essere viva </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Una rete di Petri con matrice di incidenza pari alla matrice identità (1 solo sulla diagonale, 0 altrove) è limitata </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Una rete conservativa è reversibile </title>
+		<answer>F</answer>
+	</question>
+	<question difficult="1">
+		<title>Se il grafo di raggiungibilità di una rete di Petri limitata non ha foglie morte (nodi senza successori), allora tale rete è viva. </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Sia M0[ > M, per una data . Se esiste tale che M [ > Mo, allora la rete è reversibile. </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Una rete a scelta libera ammette le sincronizzazioni e le alternative</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Una rete è limitata se e solo se è strettamente conservativa.</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Se il grafo di raggiungibilità di una rete non presenta marcature morte essa è viva. </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Se il grafo di raggiungibilità di una rete ha una marcatura morta, essa non è viva.</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>In una rete generica i sifoni prima o poi perdono i propri gettoni.</title>
+		<answer>F</answer>
+	</question>
+	<question difficult="1">
+		<title>Se un sifone è controllato con la tecnica del controllo supervisivo basati sui p-invarianti,
+			potrebbe perdere dei gettoni se la rete di partenza non e’ conservativa .
+		</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Una rete non limitata ha un grafo di raggiungibilità non limitato </title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>L’assenza di P-invarianti non nulli implica l’assenza di T-invarianti non nulli </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>In una rete reversibile, se la marcatura M1 è raggiungibile da M2, allora M2 è raggiungibile da M1</title>
+		<answer>V</answer>
+	</question>
+	<question difficult="1">
+		<title>Il supporto di un P-invariante è sia un sifone che una trappola.</title>
+		<answer>F NON NEG</answer>
+	</question>
+	<question>
+		<title>Se il grafo di raggiungibilità di una rete non presenta marcature morte essa è viva. </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Se il grafo di raggiungibilità di una rete ha una marcatura morta ≠ Mo essa non è reversibile. </title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Se σ è una sequenza ammissibile e Mo[σ >= Mo per una rete di Petri con matrice di incidenza C, 
+		allora detto s il vettore delle occorrenze associato alla sequenza σσ succede che C s = 0. </title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Se una trappola contiene strettamente un sifone marcato essa non si potrà mai svuotare </title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Una rete in cui ogni sifone contiene una trappola marcata è viva </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Se in una rete ogni sifone contiene una trappola marcata allora la rete non ha marcature morte. </title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>l’insieme di tutti i sifoni può essere illimitato</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>l’insieme di tutti i P-invarianti di una rete generica può essere illimitato.</title>
+		<answer>V</answer>
+	</question>
+	<question difficult="1">
+		<title>se la rete presenta una marcatura morta allora esiste un sifone che si è svuotato </title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Se l’insieme dei T-invarianti è vuoto allora la rete è non reversibile. </title>
+		<answer>V</answer>
+	</question>
+	<question difficult="1">
+		<title>Il supporto di un P-invariante è sia un sifone che una trappola.</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Se una trappola contiene strettamente un sifone marcato essa non si potrà mai svuotare.</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>----------Nuove da qui----------</title>
+		<answer>---</answer>
+	</question>
+	<question>
+		<title>Una rete di Petri “free-choice” è sempre viva</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Il supporto di un P-invariante a coefficienti non negativi è contemporaneamente un sifone ed una trappola</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>In un sistema ad eventi discreti non sono mai coinvolte variabili di tipo numerico</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Una caratteristica fondamentale dei modelli dei sistemi dinamici ad eventi discreti è che il loro stato evolve guidato non dal tempo ma dal succedersi di eventi		</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Una rete di Petri coperta da un unico P-invariante con tutti gli elementi pari a 1 è strettamente conservativa</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Se un sistema ad eventi discreti è dinamico, allora esso è sempre descrivibile con un automa a stati finiti</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Il controllo supervisivo a deadlock-avoidance serve a ridurre opportunamente le marcature raggiungibili da una rete di Petri</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>I metodi di progetto “bottom-up” per il controllo dei DES consistono nel disegnare la rete di Petri del sistema controllato partendo dalle sue uscite, mentre nei metodi “top-down” si parte dagli ingressi
+		</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Nei modelli dei sistemi ad eventi discreti, a volte l’insieme dei valori che una variabile può assumere dipende dallo specifico problema di modellizzazione e non soltanto dal sistema
+		</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Se una rete di Petri ha la matrice d’incidenza quadrata e non singolare, tale rete non ha né P-invarianti né T-invarianti con elementi non tutti nulli</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Nelle reti di Petri “free-choice” non vi sono mai conflitti</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Un sifone è un insieme di posti che sicuramente, prima o poi, rimane senza marche		</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>L’equazione di stato di una rete di Petri serve a calcolare la marcatura che si ottiene a partire da una certa marcatura iniziale e con un certo vettore delle occorrenze</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Se ad un vettore delle occorrenze corrisponde una sequenza di scatti ammissibile, allora tutte le sequenze di scatti che corrispondono a quel vettore delle occorrenze sono ammissibili</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title> Nel controllo supervisivo a deadlock-avoidance è possibile introdurre vincoli sia sullo stato che sugli eventi
+		</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Un sistema dinamico ad eventi discreti può avere un numero infinito di stati raggiungibili
+		</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>I T-invarianti della rete di Petri con matrice d’incidenza C sono i P-invarianti della rete di Petri con matrice d’incidenza C’</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Se una rete di Petri non ha P-invarianti non tutti nulli, non ha nemmeno Tinvarianti non tutti nulli
+		</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Una transizione viva in una rete viva può scattare un numero infinito di volte</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Una transizione viva in una rete non viva può scattare un numero infinito di volte</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Un sifone è il supporto di un P-invariante</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Una rete di Petri coperta da P-invarianti con coefficienti non negativi è conservativa
+		</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title> Il controllo supervisivo a deadlock-avoidance serve a far sì che lo scatto di certe transizioni avvenga in una sequenza prefissata
+		</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title> I sifoni della rete di Petri con matrice d'incidenza C coincidono con le trappole della rete di Petri con matrice d'incidenza -C</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>I P-invarianti della rete di Petri con matrice d'incidenza C coincidono con i Tinvarianti della rete di Petri con matrice d'incidenza -C</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Un sifone minimo non contiene altri sifoni ma può coincidere con il supporto di un P-invariante
+		</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Una transizione di una rete di Petri si dice viva se è abilitata in una ed una sola marcatura della rete stessa
+		</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>I sifoni della rete di Petri con matrice d'incidenza C coincidono con le trappole della rete di Petri con matrice d'incidenza C'</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title> I P-invarianti della rete di Petri con matrice d'incidenza C coincidono con i Tinvarianti della rete di Petri con matrice d'incidenza C'		</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title> In una rete di Petri free-choice tutte le transizioni hanno al più un posto nel loro preset
+		</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Una rete di Petri si dice binaria se tutte le sue transizioni hanno due posti nel loro postset</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title> Se una rete di Petri ha N marcature possibili M1-MN e tutte le marcature M2-MN sono raggiungibili da M1, la rete è viva.
+		</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>I P-invarianti di una rete di Petri non dipendono dalla marcatura iniziale</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title>Una rete di Petri coperta da P-invarianti è sempre strettamente conservativa</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>Il controllo supervisivo serve ad imporre ad una rete di Petri dei vincoli sullo stato espressi in una forma qualsiasi.
+		</title>
+		<answer>F</answer>
+	</question>
+	<question>
+		<title>I P-invarianti della rete di Petri con matrice d’incidenza C sono i T-invarianti della rete di Petri con matrice d’incidenza C’</title>
+		<answer>V</answer>
+	</question>
+	<question>
+		<title> Se un insieme di posti è contemporaneamente un sifone ed una trappola, allora esso è il supporto di un P-invariante.
+		</title>
+		<answer>F</answer>
+	</question>
+</questions>

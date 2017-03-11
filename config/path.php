@@ -1,0 +1,10 @@
+<?php
+
+define("BASE_URL", $_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR);
+define("CONFIG_DIR", BASE_URL . "config" . DIRECTORY_SEPARATOR);
+define("FW_DIR", BASE_URL . "framework" . DIRECTORY_SEPARATOR);
+define("CONTROLLER_DIR", BASE_URL . "controllers" . DIRECTORY_SEPARATOR);
+define("VIEW_DIR", BASE_URL . "views" . DIRECTORY_SEPARATOR);
+define("MODEL_DIR", BASE_URL . "models" . DIRECTORY_SEPARATOR);
+
+?>
